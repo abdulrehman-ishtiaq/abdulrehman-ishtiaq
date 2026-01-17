@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I’m Abdul Rehman 👋
 
-<!--
-**abdulrehman-ishtiaq/abdulrehman-ishtiaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ICS Student from Pakistan  
+💻 Beginner Programmer  
+🔐 Aspiring Cybersecurity Student
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m Currently Learning
+- C Programming (fundamentals)
+- Python (basics)
+- Git & GitHub
+- Linux basics
+
+---
+
+## 🛠️ Tools & Technologies
+- C
+- Python
+- Git & GitHub
+- VS Code
+- Linux (beginner)
+
+---
+
+## 🎯 Why I’m on GitHub
+I use GitHub to:
+- Practice programming consistently
+- Track my learning progress
+- Build a strong technical foundation for future studies
+
+---
+
+⭐ Learning in public. Improving step by step.
