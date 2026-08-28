@@ -8,7 +8,6 @@
 
 ## 🚀 What I’m Currently Learning
 - C Programming (fundamentals)
-- Python (basics)
 - Git & GitHub
 - Linux basics
 
@@ -16,7 +15,6 @@
 
 ## 🛠️ Tools & Technologies
 - C
-- Python
 - Git & GitHub
 - VS Code
 - Linux (beginner)
